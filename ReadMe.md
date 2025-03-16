@@ -1,5 +1,7 @@
 # 💫 About Me:
- I'm a passionate developer with a keen interest in open-source projects and<br> innovative solutions. Currently working on enhancing my skills in full-stack development and exploring the latest in AI and machine learning. Always eager to collaborate on exciting projects and learn new technologies<br>
+I'm Saifullah an enthusiastic AI and Data Science professional with practical experience in Python development, web development, and Data Analysis with cutting-edge projects. I have completed internships in Python, Machine Learning and Data Analyst enhancing my technical expertise and problem-solving skills. My work focuses on creating intelligent, user-friendly solutions by integrating advanced technologies.
+
+I am passionate about innovation, continuously learning new concepts, and applying them to real-world problems. Whether developing smart applications or exploring emerging tech, I am dedicated to delivering impactful solutions that drive progress and improve everyday experiences. <br>
 
 
 ## 🌐 Socials:
